@@ -6,3 +6,5 @@ For my programming projects, I usually only upload to Github once I make signifi
 ℹ️ | I'm most confident in my C# knowledge.  
 ℹ️ | I’m currently working learning backend and how to use SQL efficiently.  
 ℹ️ | I like to build, code and play video games.  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrykeeton97)](https://github.com/terrykeeton97/github-readme-stats)
