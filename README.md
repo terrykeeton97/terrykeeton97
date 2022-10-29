@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<align="center">
+<img src="https://komarev.com/ghpvc/?username=terrykeeton97&style=flat-square&color=blue" alt=""/>
 
 I'm a Roofer by trade who lives in the United Kingdom. I'm learning how to code. I'm a Roofer by trade who lives in the United Kingdom. I'm learning how to code. I have a passion for programming in the languages C# & C++. I also have a keen interest in low-level programming and reverse engineering as they challenge me and I enjoy learning.
 
