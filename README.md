@@ -5,5 +5,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 ℹ️ // I’m currently learning C#, SQL, C++ and ASM x86.  
 ℹ️ // I'm most confident in my C# knowledge.  
 ℹ️ // I like to build, code and play video games.  
-ℹ️ // My goal is to have a full career in the Software Development Industry with a wide knowledge of back-end and low-level programming.
+ℹ️ // My goal is to have a full career in the Software Development Industry with a wide knowledge of back-end and low-level programming.  
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrykeeton97)](https://github.com/anuraghazra/github-readme-stats)
