@@ -23,7 +23,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 - :seedling: I like to build, code and play video games.
 
-- :zap: My goal is to have a full career in the Software Development Industry with a wide knowledge of back-end and low-level programming.  
+- :zap: My goal is to have a full career in the Software Development with wide knowledge of back-end and low-level programming.  
  ---
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrykeeton97)](https://github.com/anuraghazra/github-readme-stats)
