@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400"/>
 </div>
 
 I'm a Roofer by trade who lives in the United Kingdom. I'm learning how to code. I'm a Roofer by trade who lives in the United Kingdom. I'm learning how to code. I have a passion for programming in the languages C# & C++. I also have a keen interest in low-level programming and reverse engineering as they challenge me and I enjoy learning.
